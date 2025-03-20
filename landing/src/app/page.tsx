@@ -4,8 +4,8 @@ export default function Home() {
       <div className="absolute top-[-200px] left-1/2 transform -translate-x-1/2 w-[600px] h-[600px] bg-gradient-to-r from-blue-800 to-orange-400 rounded-full blur-[200px] animate-[spin_15s_linear_infinite]"></div>
       
       <header className="text-center py-16 relative z-10">
-        <h1 className="text-5xl font-bold">Інформаційна система алгоритмічного трейдингу з використанням штучного інтелекту</h1>
-        <p className="mt-4 text-lg text-gray-400 max-w-2xl mx-auto">
+        <h1 className="text-4xl sm:text-5xl font-bold leading-tight">Інформаційна система алгоритмічного трейдингу з використанням штучного інтелекту</h1>
+        <p className="mt-4 text-base sm:text-lg text-gray-400 max-w-2xl mx-auto">
         Спроєктувати та розробити інформаційну систему, здатну автоматично виконувати трейдингові операції на різних торгових біржах із використанням алгоритмічних стратегій та штучного інтелекту. Дослідження має на меті вивчення методів оптимізації торгових алгоритмів для підвищення точності й надійності прогнозів, а також розробку зручної адміністративної панелі для моніторингу, налаштування параметрів алгоритмів і аналізу результатів торгівлі
         </p>
       </header>
