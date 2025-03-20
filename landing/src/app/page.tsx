@@ -13,7 +13,13 @@ export default function Home() {
       <main className="max-w-4xl mx-auto px-6 relative z-10">
         <section className="mb-12">
           <h2 className="text-2xl font-semibold border-b border-gray-700 pb-2">Ключові слова</h2>
-          <p className="text-gray-300 mt-2">Keyword1, Keyword2, Keyword3</p>
+          <ul className="list-disc list-inside text-gray-300 mt-2 space-y-1">
+            <li>Алгоритмічний трейдинг</li>
+            <li>Штучний інтелект</li>
+            <li>Машинне навчання</li>
+            <li>Прогнозування цін</li>
+            <li>Автоматизовані торгові системи</li>
+          </ul>
         </section>
         
         <section className="mb-12">
